@@ -12,8 +12,6 @@ Setelah menyelesaikan praktikum ini, mahasiswa diharapkan mampu:
 
 ### 1. Screenshot Aplikasi dengan Internet dan GPS Aktif
 
-*[Silakan jalankan aplikasi dan tambahkan screenshot di sini]*
-
 Dalam kondisi koneksi internet aktif dan GPS aktif, aplikasi akan:
 - Meminta izin akses lokasi kepada pengguna
 - Mengambil koordinat lokasi terkini (Latitude dan Longitude)
@@ -40,8 +38,8 @@ Jika aplikasi dijalankan tanpa koneksi internet, akan terjadi hal berikut:
    - Atau: **"Alamat tidak ditemukan (Internet mungkin bermasalah)"**
 
 3. **UI yang Ditampilkan**
-   - ✅ Latitude dan Longitude tetap muncul
-   - ❌ Alamat tidak dapat ditampilkan (menampilkan pesan error)
+   - Latitude dan Longitude tetap muncul
+   - Alamat tidak dapat ditampilkan (menampilkan pesan error)
 
 **Kesimpulan:** Tanpa internet, pengguna tetap bisa melihat koordinat lokasi mereka, tetapi tidak dapat melihat nama jalan atau alamat lengkapnya.
 
